@@ -25,3 +25,34 @@ with `downloadjs` to allow users to download the QR code as an image, all handle
 - **Build Tool:** Vite
 
 ---
+
+## 🚀 Core Features
+- Generate QR codes dynamically based on user input
+- Supports URLs, text, and custom strings
+- Live preview of generated QR code
+- Download QR code as an image file
+- Simple and responsive UI
+
+---
+
+## 📥 QR Code Download Logic
+- Captures the QR code DOM node
+- Converts it into PNG format
+- Triggers file download programmatically
+- No backend required for file generation
+
+---
+
+## 🧠 How It Works
+- User enters text or URL in an input field
+- Input value is stored in React state
+- `react-qr-code` renders the QR code instantly
+- QR code DOM element is converted into an image using `html-to-image`
+- Image file is downloaded using `downloadjs`
+
+---
+
+#Preview
+
+<img width="1358" height="692" alt="image" src="https://github.com/user-attachments/assets/f8fb47f2-51d1-4340-97d3-657250990f98" />
+
