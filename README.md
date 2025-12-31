@@ -56,3 +56,19 @@ with `downloadjs` to allow users to download the QR code as an image, all handle
 
 <img width="1358" height="692" alt="image" src="https://github.com/user-attachments/assets/f8fb47f2-51d1-4340-97d3-657250990f98" />
 
+---
+
+**🙋‍♀️ Author**
+
+## Manaswini Sasmal
+
+📲 - 6370094643
+
+👩‍💻 Frontend Developer | React Enthusiast
+
+🔗 Portfolio - https://manaswini-portfolio.vercel.app/
+
+📧 manaswinisasmal5597@gmail.com
+
+🔗 LinkedIn - https://www.linkedin.com/in/manaswini-sasmal-b77a21162/
+
