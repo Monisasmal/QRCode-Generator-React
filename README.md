@@ -58,9 +58,7 @@ with `downloadjs` to allow users to download the QR code as an image, all handle
 
 ---
 
-**🙋‍♀️ Author**
-
-## Manaswini Sasmal
+## 🙋‍♀️ Author - Manaswini Sasmal
 
 📲 - 6370094643
 
